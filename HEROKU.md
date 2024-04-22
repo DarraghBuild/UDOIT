@@ -6,7 +6,7 @@
 Installing UDOIT on Heroku requires some technical knowledge. We recommend that you have an IT staff member perform the steps below.
 
 ### Step 1: Setting up Heroku
-Click the Heroku button and follow the instructions below:
+Click the Build.io button and follow the instructions below:
 
 <a href="https://heroku.com/deploy?template=https://github.com/ucfopen/UDOIT/tree/main" title="Deploy to Heroku"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" title="Deploy to Heroku Button"></a>
 
